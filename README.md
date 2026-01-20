@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/blob/main/basic_python_exercises.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EstherLauraKituyi/basic_python_exercises/blob/main/Women_Techsters_Python_Fundamentals.ipynb))
 
 
 Python Fundamentals: Fellowship Exercises
