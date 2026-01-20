@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME](https://github.com/EstherLauraKituyi/basic_python_exercises)/blob/main/basic_python_exercises.ipynb)
+
 Python Fundamentals: Fellowship Exercises
 This repository contains the foundational Python exercises completed as part of the Women Techsters Data Science and Engineering Fellowship. 
 
